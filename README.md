@@ -1,11 +1,12 @@
+UPKAAR
 Donation-website-with-Payment-Gateway
 
 
 Donate Now:
-This is a donation website for The Sparks Foundation. The website provides users with the opportunity to make a donation to help those in need in areas of education, hunger, and healthcare. Users can easily navigate the website to learn about The Sparks Foundation, view a gallery, and join the foundation.
+This is a donation website that provides users with the opportunity to make a donation to help those in need in areas of education, hunger, and healthcare. 
 
 Technologies"
-The website is built with HTML, CSS, and Bootstrap. It also uses the Stripe payment platform for donation processing.
+The website is built with HTML, CSS, and Bootstrap. 
 
 Features:
 Navigation bar for easy website navigation.
