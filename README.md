@@ -1,5 +1,5 @@
 Donation-website-with-Payment-Gateway
-Payment_Gateway_task for The Sparks Foundation Internship
+
 
 Donate Now:
 This is a donation website for The Sparks Foundation. The website provides users with the opportunity to make a donation to help those in need in areas of education, hunger, and healthcare. Users can easily navigate the website to learn about The Sparks Foundation, view a gallery, and join the foundation.
